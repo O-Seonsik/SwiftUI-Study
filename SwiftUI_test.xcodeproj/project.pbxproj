@@ -31,6 +31,7 @@
 		2F60565F2430FC3900AE9477 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F60565D2430FC3900AE9477 /* LaunchScreen.storyboard */; };
 		2F605667243100AC00AE9477 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F605666243100AC00AE9477 /* CircleImage.swift */; };
 		2F6056692431019500AE9477 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6056682431019500AE9477 /* MapView.swift */; };
+		2FB3F56E24338FBE00C7BD7F /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB3F56D24338FBE00C7BD7F /* UserData.swift */; };
 		2FB70FA024325B29008A8E0C /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB70F9F24325B29008A8E0C /* Data.swift */; };
 /* End PBXBuildFile section */
 
@@ -61,6 +62,7 @@
 		2F6056602430FC3900AE9477 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F605666243100AC00AE9477 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		2F6056682431019500AE9477 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		2FB3F56D24338FBE00C7BD7F /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		2FB70F9F24325B29008A8E0C /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -97,6 +99,7 @@
 				2FB70FA624325BD2008A8E0C /* Models */,
 				2F6056522430FC3800AE9477 /* AppDelegate.swift */,
 				2F6056542430FC3800AE9477 /* SceneDelegate.swift */,
+				2FB3F56D24338FBE00C7BD7F /* UserData.swift */,
 				2F37283B2432637600E21C84 /* LandmarkRow.swift */,
 				2F37283D2432641E00E21C84 /* LandmarkList.swift */,
 				2F6056562430FC3800AE9477 /* LandmarkDetail.swift */,
@@ -248,6 +251,7 @@
 				2F6056692431019500AE9477 /* MapView.swift in Sources */,
 				2F6056552430FC3800AE9477 /* SceneDelegate.swift in Sources */,
 				2F37283C2432637600E21C84 /* LandmarkRow.swift in Sources */,
+				2FB3F56E24338FBE00C7BD7F /* UserData.swift in Sources */,
 				2F6056572430FC3800AE9477 /* LandmarkDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
